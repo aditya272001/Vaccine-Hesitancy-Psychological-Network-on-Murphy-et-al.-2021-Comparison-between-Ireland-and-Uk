@@ -1,4 +1,4 @@
-# Vaccine-Hesitancy-Psychological-Network-on-Murphy-et-al.-2021-Comparison-between-Ireland-and-Uk
+# Vaccine Hesitancy Psychological Network on Murphy et al., 2021:Comparison between Ireland and Uk
 In this project, I have used the vaccine hesitancy data retrived from (Murphy et al., 2021) under Creative Commons license 4.0 fair use. I have 
 created a mixed graphical model (Haslbeck & Waldrop, 2015) which comprises of continuous and binary variables on data from two different demographics (Uk and Ireland). 
 For each country I have fitted two different networks, One Network comparises of factor scores of various 
